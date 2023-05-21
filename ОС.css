@@ -1,0 +1,29 @@
+body{
+padding 0;
+font-family: sans-serif;
+font-size: 16px;
+background: #89745d;
+}
+header a {
+text-deccoration: none;
+}
+header h1 {
+display: inline-block;
+text-align:center;
+vertical-align: middle;
+color: #f8d9b7;
+width: 95%;
+padding: 20px;
+margin: 20px 0;
+background:  #c1946a;
+box-shadow: 0 0 15px #f8d9b7
+}
+p {
+width: 95%;
+padding: 20px;
+margin: 20px 0;
+background: #f8d9b7;
+box-shadow: 0 0 15px #f8d9b7;
+}
+
+
